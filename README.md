@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RAHUL-ROSHAN-G
-- 👀 I’m interested in Coding, drawing, reasearching about different fields.
-- 🌱 I’m currently learning B.Tech Computer Science in PES collge [RR-main campus ]
+- 👀 I’m interested in Coding, planning with groups and executing toughest jobs, reasearching about different fields(like psychological facts, thoughts), drawing.
+- 🌱 I’m currently learning B.Tech Computer Science in PES collge [RR-main campus]
 - 📫 How to reach me rahulroshanganesh2002@gmail.com
 
 <!---
