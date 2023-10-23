@@ -4,7 +4,7 @@
   - Web developemt(using **MERN** stack)
   - **Programming**
   - **Origami**
-  - Solving **real-word** problems(Built a application notepad+code_editor+speech+word_document) R
+  - Solving **real-word** problems(Built a application notepad+code_editor+speech+word_document)
   - **Reasearching**(published a paper about the application in IEEE 2023 and received best paper award with my team)
   - Still **learn[ing]** about different fields(like different framework of javascript
   - Reading **wikipedia** pages to deep dive about a fact, psychological facts, thoughts, after life and more)
