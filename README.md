@@ -11,7 +11,7 @@
   - **Drawing**.
 - 🌱 I’m currently pursuing Final year B.Tech Computer Science in PES collge [RR-main campus](https://pes.edu/)
 - 📫 How to reach me [Mr.Robot](mailto:rahulroshanganesh2002@gmail.com)
-- Check out my [LINKEDIN](https://www.linkedin.com/in/rahul-roshan-g-27000b241/) page.
+- Check out my [LINK-ED-IN](https://www.linkedin.com/in/rahul-roshan-g-27000b241/) page.
 
 <!---
 RAHUL-ROSHAN-G/RAHUL-ROSHAN-G is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
